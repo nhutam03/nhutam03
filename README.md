@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Ho Thi Nhu Tam 👋
 
-<!--
-**nhutam03/nhutam03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a **Software Engineering** student in the Faculty of Information Technology at **Ho Chi Minh City University of Industry**.
 
-Here are some ideas to get you started:
+🎓 Currently focused on academic projects and personal development to enhance my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Actively seeking opportunities to apply my knowledge in real-world projects and start my career in the technology industry.
+
+## Tech Stack
+
+### Frontend
+- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Frameworks/Libraries**: Next.js, React Native
+- **UI Libraries**: ShadcnUI, TailwindCSS, DaisyUI
+- **State Management**: Zustand, Redux
+
+### Backend
+- **Languages**: Java
+- **Frameworks**: Spring Boot, Express.js
+- **Authentication**: JWT
+- **Real-time**: Socket.io
+
+### Desktop Development
+- **Electron.js**
+
+### Database
+- **PostgreSQL**, **MS SQL**, **MongoDB**
+
+### Cloud & DevOps
+- **AWS**: S3, EC2, SNS
+- **Supabase**
+- **Docker**
+- **Heroku**
+
+### Version Control
+- **Git**
+
+## Goals
+Looking for a professional work environment to learn, develop skills, and contribute to meaningful technology projects.
+
+## Contact
+- 📧 **Email**: [nhutam050@gmail.com]
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/nhu-tam-ho-thi-616708248/]
